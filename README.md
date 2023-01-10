@@ -2,7 +2,7 @@
 
 
 # Deployed app URL:
-http://udagram-app-front-end.s3-website-us-east-1.amazonaws.com/home
+http://udagram-app-front-end.s3-website-us-east-1.amazonaws.com
 
 
 # Note:
